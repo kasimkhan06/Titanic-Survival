@@ -1,0 +1,4 @@
+-r requirements.txt  # Includes all production requirements
+jupyterlab
+matplotlib
+seaborn
