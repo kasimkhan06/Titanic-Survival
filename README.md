@@ -10,9 +10,8 @@ An end-to-end machine learning project that predicts passenger survival on the T
 
 ## 🚀 Live Application
 
-**[➡️ Click here to view the deployed Streamlit app!](YOUR_DEPLOYMENT_LINK_HERE)**
+**[➡️ Click here to view the deployed Streamlit app!](https://titanic-survival-k0qj.onrender.com)**
 
-*(Note: Replace `YOUR_DEPLOYMENT_LINK_HERE` with the actual URL from your hosting service.)*
 
 ---
 
