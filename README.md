@@ -65,7 +65,7 @@ Follow these steps to set up and run the project locally.
 
 ### 1. Clone the Repository
 ```sh
-git clone [https://github.com/kasimkhan06/Titanic-Survival.git](https://github.com/kasimkhan06/Titanic-Survival.git)
+git clone https://github.com/kasimkhan06/Titanic-Survival.git
 cd titanic-survival-prediction
 ```
 
