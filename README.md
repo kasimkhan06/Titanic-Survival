@@ -18,9 +18,8 @@ An end-to-end machine learning project that predicts passenger survival on the T
 
 ## 🖼️ Demo
 
-*(Note: Replace the placeholder below with a GIF or screenshot of your working Streamlit app. This is the best way to quickly showcase your project!)*
+<img width="1917" height="907" alt="image" src="https://github.com/user-attachments/assets/86b8a444-dcb3-4a4e-98fd-948d4b425a8e" />
 
-![Streamlit App Demo](path/to/your/app_demo.gif)
 
 ---
 
