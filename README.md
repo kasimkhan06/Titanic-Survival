@@ -65,10 +65,9 @@ Follow these steps to set up and run the project locally.
 
 ### 1. Clone the Repository
 ```sh
-git clone [https://github.com/yourusername/titanic-survival-prediction.git](https://github.com/yourusername/titanic-survival-prediction.git)
+git clone [https://github.com/kasimkhan06/Titanic-Survival.git](https://github.com/kasimkhan06/Titanic-Survival.git)
 cd titanic-survival-prediction
 ```
-*(Note: Replace `yourusername` with your actual GitHub username.)*
 
 ### 2. Create and Activate a Virtual Environment
 It's recommended to use a virtual environment to manage dependencies.
